@@ -1,6 +1,7 @@
 # ClinicaPet - Sistema de Gestão Veterinária (TP1)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)](#)
-[![Etapa](https://img.shields.io/badge/Release-TP1-lightgrey?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-007EC6?style=for-the-badge)](#)
+[![Etapa](https://img.shields.io/badge/RELEASE-TP1-808080?style=for-the-badge)](#)
+[![Licença](https://img.shields.io/badge/LICENSE-EDUCATIONAL-73A808?style=for-the-badge)](#)
 
 > Projeto desenvolvido para o Teste de Performance 1 (TP1) da disciplina de Engenharia de Software do Instituto Infnet. O foco desta entrega é a documentação de requisitos e a construção da base estrutural de um sistema de agendamento clínico.
 
@@ -53,4 +54,8 @@ Para rodar a aplicação localmente, certifique-se de ter o .NET 10 SDK instalad
 4. (Opcional) O projeto também pode ser aberto e executado diretamente pressionando F5 no Visual Studio Community.
 
 ---
+
+## 📄 Licença
+
+Este projeto é disponibilizado exclusivamente para fins **educacionais e de demonstração**.
 Desenvolvido por Wiliam Jr. Da Maia - Engenharia de Software com Enfase em Cibersegurança (Instituto Infnet).
