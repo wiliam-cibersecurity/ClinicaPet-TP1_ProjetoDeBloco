@@ -1,6 +1,8 @@
 # ClinicaPet - Sistema de Gestão Veterinária (TP1)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)](#)
+[![Etapa](https://img.shields.io/badge/Release-TP1-lightgrey?style=flat-square)](#)
 
-Projeto desenvolvido para o Teste de Performance 1 (TP1) da disciplina de Engenharia de Software do Instituto Infnet. O objetivo desta entrega é estabelecer a documentação de requisitos e construir a base estrutural (esqueleto) de um sistema de agendamento e gestão para clínicas veterinárias.
+> Projeto desenvolvido para o Teste de Performance 1 (TP1) da disciplina de Engenharia de Software do Instituto Infnet. O foco desta entrega é a documentação de requisitos e a construção da base estrutural de um sistema de agendamento clínico.
 
 ## Estrutura do Repositório
 
