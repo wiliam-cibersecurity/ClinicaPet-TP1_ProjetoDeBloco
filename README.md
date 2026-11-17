@@ -53,7 +53,6 @@ Para rodar a aplicação localmente, certifique-se de ter o .NET 10 SDK instalad
 3. Execute o comando: `dotnet run`
 4. (Opcional) O projeto também pode ser aberto e executado diretamente pressionando F5 no Visual Studio Community.
 
- Desenvolvido por Wiliam Jr. Da Maia - Engenharia de Software com Enfase em Cibersegurança (Instituto Infnet).
 ---
 
 ## 📄 Licença
