@@ -17,11 +17,11 @@ O projeto está dividido em duas áreas principais:
 
 ## Especificações Técnicas
 
-- Linguagem: C#
-- Framework: .NET 10.0 SDK
-- Interface: Linha de Comando (CLI / Console Application)
-- Armazenamento: Estruturas temporárias em memória (Arrays estáticos limitados a 100 posições).
-- Paradigma: Estruturado (Restrição da etapa atual: não utilização de Orientação a Objetos).
+- **Linguagem:** ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+- **Framework:** ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 10.0 SDK
+- **Interface:** Linha de Comando (CLI / Console Application)
+- **Armazenamento:** Estruturas temporárias em memória (Arrays estáticos limitados a 100 posições).
+- **Paradigma:** Estruturado (Restrição da etapa atual: não utilização de Orientação a Objetos).
 
 ## Escopo Atual (Iteração 1)
 
